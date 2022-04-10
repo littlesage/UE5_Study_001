@@ -1,7 +1,11 @@
 /Saved
 /Intermediate
 /.vs
-/Content
+/Content/Characters
+/Content/Collections
+/Content/Developers
+/Content/LevelPrototyping
+/Content/StarterContent
 /Build
 /Plugins
 *.sln
